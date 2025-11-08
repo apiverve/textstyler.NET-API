@@ -5,7 +5,7 @@ using System.Text;
 namespace APIVerve
 {
     public class TextStylerQueryOptions {
-public string text { get; set; }
-public string style { get; set; }
+public string Text { get; set; }
+public string Style { get; set; }
 }
 }
